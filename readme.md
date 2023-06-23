@@ -1,10 +1,9 @@
 # Portfolio Overview
 
-Welcome to my portfolio! Here, I showcase a collection of applications I developed using Bloomberg's BQuant platform, each tailored to perform specific analyses on financial markets and assets. Through these applications, I leverage the power of BQuant to gain insights and make informed decisions in the world of finance.
-
+Welcome to my portfolio! Here, I showcase a collection of applications I developed using Bloomberg's BQuant platform, each tailored to perform specific analyses on the financial markets. Through these applications, I demonstrate the value of the BQuant platform to our prospects and clients to help drive engagement and sales. I also teach our users to create their own applications, empowering them to fully leverage the power of the Bloomberg Terminal's API toolkit.
 ## About Me
 
-I am a passionate software engineer with a strong interest in the intersection of technology and finance. I have developed a range of applications using Bloomberg's BQuant platform, leveraging its rich set of data, analytics, and visualization tools to delve into various financial markets.
+I am an API specialist for Bloomberg in London with a strong interest in the intersection of technology and finance. I have developed a range of applications using Bloomberg's BQuant platform, leveraging its rich set of data, analytics, and visualization tools to delve into various use cases in the financial markets.
 
 ## Applications
 
