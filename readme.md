@@ -4,7 +4,7 @@ Welcome to my portfolio! Here, I showcase a collection of applications I develop
 
 ## About Me
 
-I am an API specialist for Bloomberg in London with a strong interest in the intersection of technology and finance. I have developed a range of applications using Bloomberg's BQuant platform, leveraging its rich set of data, analytics, and visualization tools to delve into various use cases in the financial markets.
+I am an API specialist for Bloomberg in London with a strong interest in the intersection of technology and finance. I have developed a range of applications using Bloomberg's BQuant platform, leveraging its rich set of data, analytics, and visualization tools to delve into various use cases in the financial markets. Since joining the API Specialist team in 2020, I have developed a fondness for programming and app development, and am now looking to transition into a software engineering role in the next few years.
 
 ## Applications
 
