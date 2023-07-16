@@ -18,19 +18,25 @@ I am an API specialist for Bloomberg in London with a strong interest in the int
 
 - **Description:** Analyses trends in index and single-stock dividend futures over time, comparing them with broker estimates.
 - **Features:** Historical chart showing evolution of dividend futures vs. dividend estimates, historical price/dividend charts.
-- **Demo:** Provide a link to a live demo or a video showcasing the application.
+- **Demo:** https://github.com/arthurjeannerot/bqnt_apps/assets/137562965/9666b857-e883-4790-8b86-2deb0fbfbffc
+
+
 
 ### Application 3: Commodity Futures Options Analysis
 
 - **Description:** Aggregates options data for a given commodity futures curve, across the entire term structure.
 - **Features:** Sum of open interest by strike price, biggest increases/decreases in volume/open interest.
-- **Demo:** Provide a link to a live demo or a video showcasing the application.
+- **Demo:** https://github.com/arthurjeannerot/bqnt_apps/assets/137562965/1d1d3282-dfff-4bd2-9cfc-d2bda06e89e0
+
+
 
 ### Application 4: Funds/ETF Comparison
 
 - **Description:** Compares several mutual funds/ETFs' performance metrics over time.
 - **Features:** Current and historical risk/return metrics for a list of funds, monthly an quarterly periodicity.
-- **Demo:** Provide a link to a live demo or a video showcasing the application.
+- **Demo:** https://github.com/arthurjeannerot/bqnt_apps/assets/137562965/0ce05899-1b7c-447d-9d45-74f3bd73141c
+
+
 
 ## Conclusion
 
